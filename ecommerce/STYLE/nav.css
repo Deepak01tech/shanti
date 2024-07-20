@@ -1,0 +1,20 @@
+#nav {
+      background-color: #F1F1F1;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+#nav2 {
+      background-color: #F1F1F1;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  #nav2,#nav a {
+      text-decoration: none;
+      color: black;
+      padding: 10px;
+  }
+  #nav2,#nav a:hover {
+      background-color: #ddd;
+  }
